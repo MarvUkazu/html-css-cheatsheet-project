@@ -1,0 +1,29 @@
+body {
+  background-color: #FBE2F0;
+}
+
+table {
+  border: 3px solid #880061;
+  position: relative;
+  margin: auto;
+}
+td {
+  font-family: monospace;
+  font-size: 15px;
+  padding: 10px;
+}
+
+th {
+  background-color: #C7006E;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.different-font {
+  font-family: Helvetica, sans-serif;
+}
